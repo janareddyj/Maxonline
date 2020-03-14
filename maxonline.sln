@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxonline", "maxonline.csproj", "{83356F5E-B88F-4EF5-90BC-8740FCA0A7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxonline.Tests", "..\maxonline.Tests\maxonline.Tests.csproj", "{6ACC9EC0-4EDC-4A83-8337-9C80A96FC343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83356F5E-B88F-4EF5-90BC-8740FCA0A7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83356F5E-B88F-4EF5-90BC-8740FCA0A7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83356F5E-B88F-4EF5-90BC-8740FCA0A7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83356F5E-B88F-4EF5-90BC-8740FCA0A7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACC9EC0-4EDC-4A83-8337-9C80A96FC343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACC9EC0-4EDC-4A83-8337-9C80A96FC343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACC9EC0-4EDC-4A83-8337-9C80A96FC343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACC9EC0-4EDC-4A83-8337-9C80A96FC343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E636198-E21A-4E48-B360-0138AEB34EDC}
+	EndGlobalSection
+EndGlobal
